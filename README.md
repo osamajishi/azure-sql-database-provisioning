@@ -21,19 +21,19 @@ Comprehensive laboratory infrastructure deployment detailing the creation of a s
 
 ![Resource Group Inventory](images/resources.png)
 
-*Resource group overview confirming successful deployment of the logical SQL server databaseservertest13 and SQL database.*[cite: 60]
+*Resource group overview confirming successful deployment of the logical SQL server databaseservertest13 and SQL database.*
 
 ---
 
 ![Logical SQL Server Overview](images/server-sql.png)
 
-*Logical SQL server overview pane displaying server admin credentials, fully qualified domain name, and associated online database.*[cite: 62]
+*Logical SQL server overview pane displaying server admin credentials, fully qualified domain name, and associated online database.*
 
 ---
 
 ![SQL Database Overview](images/sql-database-server.png)
 
-*SQL database overview pane showing Basic pricing tier status and configuration entry points.*[cite: 63]
+*SQL database overview pane showing Basic pricing tier status and configuration entry points.*
 
 ---
 
@@ -45,7 +45,7 @@ Navigated to the networking settings of `databaseservertest13`, added a client I
 
 ![Configure Firewall Rules](images/firewall-exceptions-enabled.png)
 
-*Networking panel displaying selected networks public access, added client IPv4 firewall rule, and enabled Azure services exception.*[cite: 59]
+*Networking panel displaying selected networks public access, added client IPv4 firewall rule, and enabled Azure services exception.*
 
 ---
 
@@ -55,4 +55,4 @@ Authenticated to the database via Azure Portal Query Editor using server admin c
 
 ![Query Editor Execution](images/run-query.png)
 
-*Query Editor interface displaying successful creation of course and credit database tables with relational constraints.*[cite: 61]
+*Query Editor interface displaying successful creation of course and credit database tables with relational constraints.*
